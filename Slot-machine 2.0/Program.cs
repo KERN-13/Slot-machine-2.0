@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Welcome to the slot machine game!");
             Console.WriteLine($"You have 50 coins to start with.");
-            
+            //test comment
             int coins = 50;
             Random random = new Random();
 
